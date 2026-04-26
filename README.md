@@ -1,6 +1,6 @@
 # CityFalcon Financial News and DCSC Portfolio Analysis MCP Server
 
-Built collaboratively with [Delara Lomen](https://github.com/delaralomen) and [Hoormazd Rezaei](https://github.com/Hoormazd1379).
+Built collaboratively with [Delara Lomen](https://github.com/delaralomen) and [Hoormazd Pirayeshfar](https://github.com/Hoormazd1379).
 
 ---
 
